@@ -1,8 +1,8 @@
-Flask==1.1.2
-Flask-Sockets==0.2.1
-gevent==21.12.0
+Flask
+Flask-Sockets
+gevent
 gevent-websocket==0.10.1
-greenlet==1.1.0
+greenlet
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2

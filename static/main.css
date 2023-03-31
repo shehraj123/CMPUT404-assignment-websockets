@@ -1,0 +1,28 @@
+#c {
+  height: 40%;
+  margin: 1em;
+}
+
+#colorpicker {
+  width: 25%;
+  margin: 1em;
+}
+
+label {
+  font-weight: 300;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#clearBtn {
+  align-self: right;
+  float: inline-end;
+}
+
+.widthSelector {
+  margin: 1em;
+  border-color: black;
+}
+
+/* #options {
+  display: flex;
+} */
